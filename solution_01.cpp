@@ -37,13 +37,12 @@ double avg(double y) {
 		cout << "ÃÑÁ¡" << tt;
 		cout << "Æò±Õ" << AA;
 
-		// cout << "ÃÑÁ¡" << total(usre);
-	}  //double total = usre[0] + usre[1] + usre[2] + usre[3] + usre[4];
-		//double avg = total / 5;
-		//cout << "ÃÑÁ¡" << total << endl;
-		//cout << "Æò±º" << avg << endl;
 	
-		//44
+	}  
+		
+		
+	
+		
 
 
 	
