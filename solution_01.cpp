@@ -31,10 +31,12 @@ double avg(double y) {
 		cout << "다섯 번째 사용자의 점수를 입력해주세요" << endl;
 		cin >> usre[4];
 		
-		double tt = total(usre);
-		double AA = avg(tt);
+		double TT = total(usre);
+		double AA = avg(TT);
 
-		cout << "총점" << tt;
+		
+
+		cout << "총점" << TT;
 		cout << "평균" << AA;
 
 	
