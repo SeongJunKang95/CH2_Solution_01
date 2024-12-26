@@ -43,7 +43,7 @@ double avg(double y) {
 		//cout << "ÃÑÁ¡" << total << endl;
 		//cout << "Æò±º" << avg << endl;
 	
-		
+		//44
 
 
 	
